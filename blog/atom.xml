@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wkqzbb.github.io/wiki/blog</id>
-    <title>wkq wiki Blog</title>
+    <title>Wkq Wiki Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wkqzbb.github.io/wiki/blog"/>
-    <subtitle>wkq wiki Blog</subtitle>
-    <icon>https://wkqzbb.github.io/wiki/img/favicon.ico</icon>
+    <subtitle>Wkq Wiki Blog</subtitle>
+    <icon>https://wkqzbb.github.io/wiki/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://wkqzbb.github.io/wiki/blog/welcome</id>
