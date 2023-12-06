@@ -16,18 +16,12 @@ import objectOriented from "./object-oriented";
  */
 const sidebars: SidebarsConfig = {
     // By default, Docusaurus generates a sidebar from the docs folder structure
-    algorithm,java, spring, objectOriented
+    algorithm,java, spring,
+    objectOriented,
+
     // But you can create a sidebar manually
     /*
-    tutorialSidebar: [
-      'intro',
-      'hello',
-      {
-        type: 'category',
-        label: 'Tutorial',
-        items: ['tutorial-basics/create-a-document'],
-      },
-    ],
+
      */
 };
 

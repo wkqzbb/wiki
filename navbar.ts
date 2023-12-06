@@ -33,10 +33,6 @@ const navbar: Navbar = {
             position: 'left',
             label: 'Spring',
         },
-        {
-            type: 'localeDropdown',
-            position: 'right',
-        },
         {to: '/blog', label: '博客', position: 'right'},
         {
             href: 'https://github.com/wkqzbb',
