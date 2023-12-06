@@ -1,5 +1,5 @@
 {
-  "name": "my-website",
+  "name": "wiki",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -18,7 +18,11 @@
     "@docusaurus/core": "3.0.1",
     "@docusaurus/preset-classic": "3.0.1",
     "@mdx-js/react": "^3.0.0",
+    "antd": "^5.12.1",
+    "axios": "^1.6.2",
+    "babel-plugin-import": "^1.13.8",
     "clsx": "^2.0.0",
+    "dayjs": "^1.11.10",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
