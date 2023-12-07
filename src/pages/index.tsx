@@ -37,7 +37,7 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-          <Button type={'primary'}>antd按钮</Button>
+          <Button type={'default'}>antd按钮</Button>
         {/*<HomepageFeatures />*/}
       </main>
     </Layout>
