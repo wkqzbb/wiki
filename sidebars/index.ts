@@ -3,6 +3,7 @@ import algorithm from "./algorithm/index";
 import java from "./java/index";
 import spring from "./spring/index"
 import objectOriented from "./object-oriented";
+import middleware from "./middleware";
 
 /**
  * Creating a sidebar enables you to:
@@ -17,7 +18,8 @@ import objectOriented from "./object-oriented";
 const sidebars: SidebarsConfig = {
     // By default, Docusaurus generates a sidebar from the docs folder structure
     algorithm,java, spring,
-    objectOriented,
+    objectOriented,middleware
+
 
     // But you can create a sidebar manually
     /*

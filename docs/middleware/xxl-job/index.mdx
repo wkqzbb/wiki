@@ -1,0 +1,14 @@
+---
+title: 概述
+---
+[xxl-job](https://www.xuxueli.com/xxl-job)： 是大众点评的分布式任务调度平台，是一个轻量级的分布式任务调度平台。
+
+![系统架构图](https://wkq-img.oss-cn-chengdu.aliyuncs.com/site/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-12-23%20221337.png "系统架构图")
+
+![](https://wkq-img.oss-cn-chengdu.aliyuncs.com/site/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-12-23%20223159.png)
+
+将任务抽象成分散的 JobHandler ,交由执行器统一管理，执行器负责接口调度请求并执行对应的 JobHandler 中的业务逻辑。
+
+调度和任务两部分可以互相解耦，提高了系统整体的稳定性和扩展性。
+
+## 快速入门

@@ -33,6 +33,12 @@ const navbar: Navbar = {
             position: 'left',
             label: 'Spring',
         },
+        {
+            type: 'docSidebar',
+            sidebarId: 'middleware',
+            position: 'left',
+            label: '中间件',
+        },
         {to: '/blog', label: '博客', position: 'right'},
         {
             href: 'https://github.com/wkqzbb',
