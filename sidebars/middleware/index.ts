@@ -1,11 +1,4 @@
 const middleware = [
-    {
-        type: "category",
-        label: "XxlJob",
-        link: {type: "doc", id: 'middleware/xxl-job/index'},
-        items: [
-        ]
-    },
-
+    'middleware/xxl-job/index'
 ]
 export default middleware as any;
