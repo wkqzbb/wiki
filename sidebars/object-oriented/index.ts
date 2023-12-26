@@ -43,6 +43,23 @@ const objectOriented = [
                 items: []
             }
         ]
+    },
+    {
+        type: "category",
+        label: 'DDD',
+        link: {type: "doc", id: 'object-oriented/ddd/index'},
+        items: [
+            {
+                type: 'category',
+                label: '基础概念',
+                link: {type: "doc", id: 'object-oriented/ddd/basic/index'},
+                items: [
+                    'object-oriented/ddd/basic/domain',
+                    'object-oriented/ddd/basic/bounded-context',
+                    'object-oriented/ddd/basic/entity-and-value-object',
+                ]
+            }
+        ]
     }
 ]
 export default objectOriented as any;
