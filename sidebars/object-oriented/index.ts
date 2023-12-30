@@ -58,6 +58,7 @@ const objectOriented = [
                     'object-oriented/ddd/basic/bounded-context',
                     'object-oriented/ddd/basic/entity-and-value-object',
                     'object-oriented/ddd/basic/aggregate',
+                    'object-oriented/ddd/basic/ddd_layered_architecture',
                 ]
             }
         ]
