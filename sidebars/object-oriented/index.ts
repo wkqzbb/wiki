@@ -59,6 +59,8 @@ const objectOriented = [
                     'object-oriented/ddd/basic/entity-and-value-object',
                     'object-oriented/ddd/basic/aggregate',
                     'object-oriented/ddd/basic/ddd_layered_architecture',
+                    'object-oriented/ddd/basic/microservice_architecture_pattern',
+                    'object-oriented/ddd/basic/middle-platform',
                 ]
             }
         ]
