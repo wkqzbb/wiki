@@ -62,6 +62,7 @@ const objectOriented = [
                     'object-oriented/ddd/basic/microservice_architecture_pattern',
                     'object-oriented/ddd/basic/middle-platform',
                     'object-oriented/ddd/basic/domain-modeling',
+                    'object-oriented/ddd/basic/code-model',
                 ]
             }
         ]
