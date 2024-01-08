@@ -64,6 +64,14 @@ const objectOriented = [
                     'object-oriented/ddd/basic/domain-modeling',
                     'object-oriented/ddd/basic/code-model',
                 ]
+            },
+            {
+                type: 'category',
+                label: '战略设计',
+                link: {type: "doc", id: 'object-oriented/ddd/strategic-design/index'},
+                items: [
+
+                ]
             }
         ]
     }
