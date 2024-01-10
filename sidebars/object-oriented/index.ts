@@ -57,6 +57,20 @@ const objectOriented = [
                     'object-oriented/ddd/basic/domain',
                     'object-oriented/ddd/basic/bounded-context',
                     'object-oriented/ddd/basic/entity-and-value-object',
+                    'object-oriented/ddd/basic/aggregate',
+                    'object-oriented/ddd/basic/ddd_layered_architecture',
+                    'object-oriented/ddd/basic/microservice_architecture_pattern',
+                    'object-oriented/ddd/basic/middle-platform',
+                    'object-oriented/ddd/basic/domain-modeling',
+                    'object-oriented/ddd/basic/code-model',
+                ]
+            },
+            {
+                type: 'category',
+                label: '战略设计',
+                link: {type: "doc", id: 'object-oriented/ddd/strategic-design/index'},
+                items: [
+                    'object-oriented/ddd/strategic-design/2'
                 ]
             }
         ]
