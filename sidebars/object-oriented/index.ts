@@ -70,7 +70,8 @@ const objectOriented = [
                 label: '战略设计',
                 link: {type: "doc", id: 'object-oriented/ddd/strategic-design/index'},
                 items: [
-                    'object-oriented/ddd/strategic-design/2'
+                    'object-oriented/ddd/strategic-design/2',
+                    'object-oriented/ddd/strategic-design/3'
                 ]
             }
         ]
