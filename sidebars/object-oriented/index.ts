@@ -71,7 +71,9 @@ const objectOriented = [
                 link: {type: "doc", id: 'object-oriented/ddd/strategic-design/index'},
                 items: [
                     'object-oriented/ddd/strategic-design/2',
-                    'object-oriented/ddd/strategic-design/3'
+                    'object-oriented/ddd/strategic-design/3',
+                    'object-oriented/ddd/strategic-design/4',
+                    'object-oriented/ddd/strategic-design/6',
                 ]
             }
         ]
