@@ -74,6 +74,7 @@ const objectOriented = [
                     'object-oriented/ddd/strategic-design/3',
                     'object-oriented/ddd/strategic-design/4',
                     'object-oriented/ddd/strategic-design/6',
+                    'object-oriented/ddd/strategic-design/8',
                 ]
             }
         ]
