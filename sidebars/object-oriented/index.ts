@@ -74,10 +74,20 @@ const objectOriented = [
                     'object-oriented/ddd/strategic-design/3',
                     'object-oriented/ddd/strategic-design/4',
                     'object-oriented/ddd/strategic-design/6',
+                    'object-oriented/ddd/strategic-design/7',
                     'object-oriented/ddd/strategic-design/8',
+                ]
+            },
+            {
+                type: 'category',
+                label: '战术设计',
+                link: {type: "doc", id: 'object-oriented/ddd/tactical-design/index'},
+                items: [
+                    'object-oriented/ddd/tactical-design/1',
                 ]
             }
         ]
     }
 ]
+// @ts-ignore
 export default objectOriented as any;

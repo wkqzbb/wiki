@@ -39,6 +39,12 @@ const navbar: Navbar = {
             position: 'left',
             label: '中间件',
         },
+        {
+            type: 'docSidebar',
+            sidebarId: 'softwareDesigner',
+            position: 'left',
+            label: '软件设计师',
+        },
         {to: '/blog', label: '博客', position: 'right'},
         {
             href: 'https://github.com/wkqzbb',
