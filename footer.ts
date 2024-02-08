@@ -42,6 +42,6 @@ const footer: MultiColumnFooter| SimpleFooter = {
         //     ],
         // },
     ],
-    copyright: `Copyright © ${new Date().getFullYear()} `,
+    copyright: `Copyright © ${new Date().getFullYear()} site.wkq.pub 陇ICP备2021003596号.`,
 }
 export default footer;
